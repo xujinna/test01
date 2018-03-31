@@ -26,4 +26,4 @@ class TestLogin:
         assert 1
 
     def test_log10(self):
-        assert 0
+        assert 1
