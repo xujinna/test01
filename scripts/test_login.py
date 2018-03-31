@@ -14,16 +14,6 @@ class TestLogin:
         assert 1
 
     def test_log5(self):
-        assert 1
+        assert 0
 
-    def test_log6(self):
-        assert 1
-        
-    def test_log8(self):
-        assert 1
-
-    def test_log9(self):
-        assert 1
-
-    def test_log10(self):
-        assert 1
+  
