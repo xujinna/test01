@@ -23,5 +23,7 @@ class TestLogin:
         assert 1
 
     def test_log9(self):
-        assert 0
+        assert 1
 
+    def test_log9(self):
+        assert 0
